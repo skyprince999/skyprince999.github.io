@@ -20,6 +20,7 @@ The Nine tasks are listed below:
 
 **<A> Single sentence tasks**
 
+
 - CoLA: Corpus of Linguistic Acceptability 
 Each example is a set of English words annotated with whether it's grammatically possible sentence in English 
 Acceptability is based on expert judgement drawn from 22 books & journals on linguistic theory 
@@ -29,6 +30,7 @@ These are sentences extracted from movie reviews & their human annotation. There
 
 
 **<B> Similarity and paraphrase tasks** 
+
 
 - MRPC: Microsoft Research Paraphrase Corpus
 Sentence pairs which are automatically extracted from online news sources. Task is to annotate if the two sentences are semantically equivalent. Accuracy & F1 scores are used
@@ -41,6 +43,7 @@ The task is for determining the similarity on a continous scale
 Metric: Pearson & Spearman coeeficients
 
 **<C> Inference Tasks**
+
 
 - MNLI: Multi-genre Language Inference
 Given a premise sentence & a hypothesis. The task is to predict if the sentence entails the hypothesis, contradicts or is neutral.
