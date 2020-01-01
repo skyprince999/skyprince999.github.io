@@ -28,7 +28,7 @@ Acceptability is based on expert judgement drawn from 22 books & journals on lin
 These are sentences extracted from movie reviews & their human annotation. There is a two-way split (positive/negative)
 
 
-**<B> Similarity & Paraphrase Tasks** 
+**<B> Similarity and paraphrase tasks** 
 
 - MRPC: Microsoft Research Paraphrase Corpus
 Sentence pairs which are automatically extracted from online news sources. Task is to annotate if the two sentences are semantically equivalent. Accuracy & F1 scores are used
@@ -38,7 +38,7 @@ Given two questions the task is to identify whether they are semantically equiva
 
 - STS-B: Semantic Textual Similarity Benchmark
 The task is for determining the similarity on a continous scale
-Metric: PEarson & Spearman coeeficients
+Metric: Pearson & Spearman coeeficients
 
 **<C> Inference Tasks**
 
