@@ -4,8 +4,7 @@ title: GLUE Benchmark - The labours of Hercules!
 published: true
 ---
 
-![The 12 Labours of Hercules](https://github.com/skyprince999/skyprince999.github.io/blob/master/images/Twelve_Labours_Altemps_Inv8642.jpg)
-
+![_config.yml]({{ site.baseurl }}/images/Twelve_Labours_Altemps_Inv8642.jpg)
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
