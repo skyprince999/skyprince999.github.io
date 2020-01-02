@@ -18,7 +18,7 @@ eg. "John couldn't fit the trophy in the suitcase because it was too big". Model
 
 The Nine tasks are listed below: 
 
-**<A> Single sentence tasks**
+**Single sentence tasks**
 
 
 - CoLA: Corpus of Linguistic Acceptability 
@@ -29,7 +29,7 @@ Acceptability is based on expert judgement drawn from 22 books & journals on lin
 These are sentences extracted from movie reviews & their human annotation. There is a two-way split (positive/negative)
 
 
-**<B> Similarity and paraphrase tasks** 
+**Similarity and paraphrase tasks** 
 
 
 - MRPC: Microsoft Research Paraphrase Corpus
@@ -42,7 +42,7 @@ Given two questions the task is to identify whether they are semantically equiva
 The task is for determining the similarity on a continous scale
 Metric: Pearson & Spearman coeeficients
 
-**<C> Inference Tasks**
+**Inference Tasks**
 
 
 - MNLI: Multi-genre Language Inference
