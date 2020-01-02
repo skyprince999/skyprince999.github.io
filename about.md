@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a self-confessed Machine Learning Fanatic. I have transitioned to a Data Science role via MOOCs & taking part in hackathons. 
 
-### More Information
+### Let's connect
 
-A place to include any other types of information that you'd like to include about yourself.
+My [LinkedIn Profile](https://www.linkedin.com/in/aakash-gupta-5ky/)
+
 
 ### Contact me
 
