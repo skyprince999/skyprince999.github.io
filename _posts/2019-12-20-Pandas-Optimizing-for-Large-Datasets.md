@@ -4,9 +4,10 @@ title: Pandas - Optimizing for Large Datasets
 published: true
 ---
 
-Source File:
+Walks through reducing the memory foot-print of a large dataframe
 
-https://data.world/dataquest/mlb-game-logs 
+[Data Source File](https://data.world/dataquest/mlb-game-logs)
+
 
 The above link points to the game logs of MLB games. It can be downloaded from the link as a csv file
 
