@@ -5,7 +5,6 @@ published: true
 ---
 
 Business Problem:
-
 We are trying to identify the drivers which will identify customers who are more likely to accept an offer (for up-sell)
 
 
