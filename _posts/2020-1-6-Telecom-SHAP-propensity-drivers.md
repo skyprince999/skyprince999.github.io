@@ -4,6 +4,11 @@ title: Telecom case study - Using SHAP for explaining propensity drivers!
 published: true
 ---
 
+Business Problem:
+
+We are trying to identify the drivers which will identify customers who are more likely to accept an offer (for up-sell)
+
+
 
 [Source Data File](https://www.kaggle.com/skylord/telecom-case-study)
 
@@ -14,10 +19,6 @@ The notebook is also shared via my repo: 100 days of ML
 [Link to Colab Notebook](https://github.com/skyprince999/100-Days-Of-ML/blob/master/Day%20%233-Telecom_case_study%2C_identifying_propensity_drivers.ipynb)
 
 ![Pulling the curtain on black box models](/images/Pulling_apart_curtains-768x510.jpg)
-
-Business Problem:
-
-We are trying to identify the drivers which will identify customers who are more likely to accept an offer (for up-sell)
 
 
 We convert the business problem to a data modeling problem:
